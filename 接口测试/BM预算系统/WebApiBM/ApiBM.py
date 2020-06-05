@@ -1,5 +1,5 @@
 import requests
-import cfg
+import 接口测试.BM预算系统.cfg as cfg
 from pprint import pprint
 import json
 
